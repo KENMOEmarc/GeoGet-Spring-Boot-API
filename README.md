@@ -1,7 +1,12 @@
 # Country fetch API (GeoGet)
 
-Get information about countries.
-Just clone the repository, download dependencies and run the code.
+```html
+<p>
+ -Get information about countries.
+ -Just clone the repository, download dependencies and run the code.
+ -You could use your browser or Postman.
+</p>
+```
 
 ## Personal Spring Boot project calling external API
 
@@ -15,26 +20,31 @@ https://restcountries.com/#endpoints
 
 ### GeoGet EndPoints
 
-#### Search by name
+```html
+<section>
+
+<h3>Search by name</h3>
 
  .../api/v1/countries/name/...
  
-#### Search by language
+<h3>Search by language</h3>
 
  .../api/v1/countries/lang/...
  
-#### Search by world region
+<h3>Search by world region</h3>
 
  .../api/v1/countries/region/...
  
-#### Search by capital
+<h3>Search by capital</h3>
 
  .../api/v1/countries/capital/...
 
-#### Search by currency
+<h3>Search by currency</h3>
 
  .../api/v1/countries/name/...
 
+</section>
+```
 
 ### Overview
 
