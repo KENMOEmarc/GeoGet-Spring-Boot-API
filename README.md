@@ -8,7 +8,7 @@
 </p>
 ```
 
-## Personal Spring Boot project calling external API
+## Personal Spring Boot project calling external API using WebClient
 
 ### Rest Countries API v3 support
 
