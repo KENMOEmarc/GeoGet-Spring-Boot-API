@@ -1,6 +1,5 @@
 package com.wrath.GeoGet.services;
 
-import com.wrath.GeoGet.exceptions.CountryNotFoundException;
 import com.wrath.GeoGet.models.Country;
 import com.wrath.GeoGet.models.CountryDTO;
 import org.springframework.stereotype.Service;

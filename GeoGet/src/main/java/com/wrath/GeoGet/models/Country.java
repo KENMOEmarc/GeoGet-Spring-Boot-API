@@ -1,11 +1,13 @@
 package com.wrath.GeoGet.models;
 
+import lombok.Builder;
 import lombok.Data;
 
 import java.util.List;
 import java.util.Map;
 
 @Data
+@Builder
 public class Country {
     private Name name;
     private List<String> tld;

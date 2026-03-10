@@ -1,6 +1,6 @@
 package com.wrath.GeoGet.exceptions;
 
-public class CountryNotFoundException extends RuntimeException {
+public class CountryNotFoundException extends Exception {
 
     public CountryNotFoundException(String message) {
         super(message);

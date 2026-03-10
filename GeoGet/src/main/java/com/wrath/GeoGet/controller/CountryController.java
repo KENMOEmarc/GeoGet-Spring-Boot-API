@@ -1,6 +1,5 @@
 package com.wrath.GeoGet.controller;
 
-import com.wrath.GeoGet.models.Country;
 import com.wrath.GeoGet.models.CountryDTO;
 import com.wrath.GeoGet.services.CountryService;
 import org.springframework.web.bind.annotation.*;
