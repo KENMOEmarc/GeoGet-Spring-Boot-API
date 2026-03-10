@@ -56,8 +56,6 @@ All endpoints return JSON data about countries.
 | `GET` | `/api/v1/countries/capital/{capital}` | Search by capital city (e.g., `paris`) |
 | `GET` | `/api/v1/countries/currency/{currency}` | Search by currency code or name (e.g., `eur`) |
 
-> ⚠️ **Note**: The last endpoint in your draft (`.../api/v1/countries/name/...`) was a duplicate – corrected to `/currency/`.
-
 ## 🛠️ How to Run
 
 1. **Clone the repository**
